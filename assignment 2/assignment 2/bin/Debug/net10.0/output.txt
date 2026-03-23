@@ -1,0 +1,8 @@
+Avocado,3,20,60
+Tomato,6,5,30
+Orange,9,15.5,139.5
+Mango,6,25,150
+Guava,7,5,35
+Subtotal: 414.5
+Tax: 66.32000000000001
+Grand Total: 480.82
